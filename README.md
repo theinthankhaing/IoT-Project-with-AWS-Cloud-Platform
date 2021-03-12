@@ -4,7 +4,8 @@
 
 * Push [jet engine data](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) to AWS
 * Record those data inAWS IoT and Visualize them
-* Use AWS services, such as Lambda Function, SNS
+* Use AWS services, such as MQTT,Lambda Function, SNS
+* Programming Language - Python
 _____________________________________________________________________________________________________________
 ## Environment SetUp
 
