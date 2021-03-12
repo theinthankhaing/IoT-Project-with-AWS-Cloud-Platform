@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-* Push [jet engine data](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) to AWS
+* Analyse [jet engine data](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) and push to AWS, where AWS is Subscriber and Laptop is Publisher
 * Record those data inAWS IoT and Visualize them
 * Use AWS services, such as MQTT,Lambda Function, SNS
 * Programming Language - Python
@@ -12,6 +12,7 @@ ________________________________________________________________________________
 * AWS Account
 * Python SDK for AWS IoT
 * Anaconda Powershell 
+* Python 3.7
 ____________________________________________________________________________________________
 ## Data
 * jet engine data
